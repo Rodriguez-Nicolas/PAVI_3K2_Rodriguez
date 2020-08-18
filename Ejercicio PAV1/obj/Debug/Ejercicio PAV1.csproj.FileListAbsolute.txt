@@ -1,0 +1,9 @@
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio PAV1.csprojAssemblyReference.cache
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio_PAV1.frmIniciarSesion.resources
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio PAV1.csproj.GenerateResource.cache
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\bin\Debug\Ejercicio PAV1.exe.config
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\bin\Debug\Ejercicio PAV1.exe
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\bin\Debug\Ejercicio PAV1.pdb
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio_PAV1.Properties.Resources.resources
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio PAV1.exe
+C:\Users\mmoro\OneDrive\Escritorio\Mis Proyectos\Ejercicio PAV1\Ejercicio PAV1\obj\Debug\Ejercicio PAV1.pdb
